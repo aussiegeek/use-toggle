@@ -6,6 +6,9 @@
   "repository": "https://github.com/aussiegeek/use-toggle",
   "author": "Alan Harper <alan@aussiegeek.net>",
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
     "@aussiegeek/eslint-config-react": "0.1.0",
     "@testing-library/react-hooks": "3.4.2",
