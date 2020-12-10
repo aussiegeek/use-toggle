@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "@aussiegeek/eslint-config-react": "0.1.0",
-    "@testing-library/react-hooks": "3.4.2",
+    "@testing-library/react-hooks": "3.7.0",
     "@tsconfig/node12": "1.0.7",
     "@types/jest": "26.0.15",
     "@typescript-eslint/eslint-plugin": "4.6.1",
