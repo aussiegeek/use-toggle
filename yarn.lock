@@ -585,10 +585,10 @@
     "@babel/runtime" "^7.12.5"
     "@types/testing-library__react-hooks" "^3.4.0"
 
-"@tsconfig/node12@1.0.11":
-  version "1.0.11"
-  resolved "https://registry.yarnpkg.com/@tsconfig/node12/-/node12-1.0.11.tgz#ee3def1f27d9ed66dac6e46a295cffb0152e058d"
-  integrity sha512-cqefuRsh12pWyGsIoBKJA9luFu3mRxCA+ORZvA4ktLSzIuCUtWVxGIuXigEwO5/ywWFMZ2QEGKWvkZG1zDMTag==
+"@tsconfig/node12@12.1.9":
+  version "12.1.9"
+  resolved "https://registry.yarnpkg.com/@tsconfig/node12/-/node12-12.1.9.tgz#8a3de12d881173ff821cf3f8b0bb0305b152a9a1"
+  integrity sha512-MuLWPCFnek7yE78Ps9YTZQpWqQNY6iZxlWdrQjXqCGwMINNjjMUI6KaNV37anyr9M/qTtyyeB2sMCMBq9TrlMg==
 
 "@types/babel__core@^7.0.0", "@types/babel__core@^7.1.7":
   version "7.1.10"
